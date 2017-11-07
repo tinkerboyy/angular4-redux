@@ -1,5 +1,5 @@
 
-# Angular Fundamentals Seed
+# Angular 4 with Redux
 
 > This is the seed project for the [Angular Fundamentals]
 
